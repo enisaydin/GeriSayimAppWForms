@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GeriSayimApp/1.0.0": {
+        "runtime": {
+          "GeriSayimApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeriSayimApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
